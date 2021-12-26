@@ -1,3 +1,10 @@
+<h1 align="center">
+<br>
+<img src="https://github.com/acdona/acd-images/blob/main/images/acd-logotipo-3-2022.png" alt="acdona" width="120">
+<br>
+A. C. <b>Doná</b>
+</h1>
+<br>
 - 👋 Hi, I’m Antonio Carlos Doná
 - 👀 I’m interested in CSharp, PHP, Javascript E6, HTML5, CSS3, SQL, WordPress with Elementor.
 - 🌱 I’m currently learning design patterns.
