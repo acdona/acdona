@@ -7,7 +7,7 @@ A. C. <b>Doná</b>
 <br>
 
 - 👋 Hi, I’m Antonio Carlos Doná
-- 👀 I’m interested in CSharp, PHP, Javascript E6, HTML5, CSS3, SQL, WordPress with Elementor.
+- 👀 I’m interested in C#, C++, PHP, Javascript, Python, Java, HTML5, CSS3, SQL, MySQL, WordPress with Elementor.
 - 🌱 I’m currently learning design patterns.
 - 💞️ I'm looking to collaborate on projects to gain more experience.
 - 📫 How to reach me contato@antoniocarlosdona.com.br
